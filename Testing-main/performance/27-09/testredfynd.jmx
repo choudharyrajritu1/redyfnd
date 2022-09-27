@@ -1,0 +1,237 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1664172878570,1975,Homepage-Redfynd,200,OK,Thread Group 1-1,text,true,,4747,120,1,1,https://test.redfynd.com/,1970,0,1770
+1664172880547,4563,Homepage_nykaa,200,OK,Thread Group 1-1,text,true,,828268,124,1,1,https://www.nykaafashion.com/,3336,0,2214
+1664172885110,6111,Homepage_ajio,200,OK,Thread Group 1-1,text,true,,349083,228,1,1,https://www.ajio.com/,373,0,286
+1664172885110,373,Homepage_ajio-0,301,Moved Permanently,Thread Group 1-1,,true,,196,112,1,1,https://ajio.com/,373,0,286
+1664172885484,5737,Homepage_ajio-1,200,OK,Thread Group 1-1,text,true,,348887,116,1,1,https://www.ajio.com/,504,0,270
+1664172891224,423,Redfynd-Women,200,OK,Thread Group 1-1,text,true,,4748,130,1,1,https://test.redfynd.com/nav/Women/,423,0,0
+1664172891648,1935,Nykaa-women,200,OK,Thread Group 1-1,text,true,,1494525,150,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1,568,0,0
+1664172893583,4360,Ajio-Women,200,OK,Thread Group 1-1,text,true,,377273,248,1,1,https://www.ajio.com/shop/women,84,0,0
+1664172893583,84,Ajio-Women-0,301,Moved Permanently,Thread Group 1-1,,true,,206,122,1,1,https://ajio.com/shop/women,84,0,0
+1664172893667,4276,Ajio-Women-1,200,OK,Thread Group 1-1,text,true,,377067,126,1,1,https://www.ajio.com/shop/women,203,0,0
+1664172897945,445,Redfynd-Women_Filter,200,OK,Thread Group 1-1,text,true,,4748,180,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price&Subcategory2=Topwear,445,0,0
+1664172898391,919,Nykaa-women,200,OK,Thread Group 1-1,text,true,,598384,174,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1&f=category_filter%3D10_,625,0,0
+1664172899311,123,Women_Sorting,200,OK,Thread Group 1-1,text,true,,4756,160,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price/,123,0,0
+1664172899434,279,Men,200,OK,Thread Group 1-1,text,true,,4756,128,1,1,https://test.redfynd.com/nav/Men/,279,0,0
+1664172899714,226,Men_Filter,200,OK,Thread Group 1-1,text,true,,4756,178,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price&Subcategory2=Topwear,226,0,0
+1664172899940,304,Men_Sorting,200,OK,Thread Group 1-1,text,true,,4756,158,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price/,304,0,0
+1664172900245,191,Kids ,200,OK,Thread Group 1-1,text,true,,4756,129,1,1,https://test.redfynd.com/nav/Kids/,191,0,0
+1664172900436,144,Kids_Filter,200,OK,Thread Group 1-1,text,true,,4756,179,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price&Subcategory2=Topwear,144,0,0
+1664172900581,171,Kids_Sorting,200,OK,Thread Group 1-1,text,true,,4756,159,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price/,171,0,0
+1664172900753,160,Redfynd-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,4756,133,1,1,https://test.redfynd.com/search/Shirts,160,0,0
+1664172900914,1981,Nykaa-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,705362,392,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,86,0,0
+1664172900914,86,Nykaa-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,444,194,1,1,https://nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,86,0,0
+1664172901002,1893,Nykaa-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,704918,198,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,1176,0,265
+1664172902895,8054,Ajio-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,616724,300,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,80,0,0
+1664172902895,80,Ajio-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,232,148,1,1,https://ajio.com/s/shirts-4271-38471?query=:relevance,80,0,0
+1664172902975,7974,Ajio-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,616492,152,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,541,0,0
+1664172910950,666,Redfynd - Search Cat2-Shoes,200,OK,Thread Group 1-1,text,true,,4757,132,1,1,https://test.redfynd.com/search/Shoes,666,0,0
+1664172911617,844,Nykaa-Search Cat1-Shoes,500,Internal Server Error,Thread Group 1-1,text,false,,295190,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,113,0,0
+1664172911617,113,Nykaa-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,442,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,113,0,0
+1664172911731,730,Nykaa-Search Cat1-Shoes-1,500,Internal Server Error,Thread Group 1-1,text,false,,294748,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,599,0,0
+1664172912462,5039,Ajio-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,625754,304,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,83,0,0
+1664172912462,83,Ajio-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,234,150,1,1,https://ajio.com/s/footwear-4063-31521?query=:relevance,83,0,0
+1664172912545,4956,Ajio-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,625520,154,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,339,0,0
+1664172917501,248,Redfynd -Search Cat3-Sarees,200,OK,Thread Group 1-1,text,true,,4757,133,1,1,https://test.redfynd.com/search/Sarees,248,0,0
+1664172917749,937,Nykaa-Search Cat1-Saree,200,OK,Thread Group 1-1,text,true,,521780,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,86,0,0
+1664172917749,86,Nykaa-Search Cat1-Saree-0,301,Moved Permanently,Thread Group 1-1,,true,,442,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,86,0,0
+1664172917835,851,Nykaa-Search Cat1-Saree-1,200,OK,Thread Group 1-1,text,true,,521338,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,633,0,0
+1664172918687,2657,Ajio-Search Cat1-sarees,200,OK,Thread Group 1-1,text,true,,456528,310,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,87,0,0
+1664172918687,87,Ajio-Search Cat1-sarees-0,301,Moved Permanently,Thread Group 1-1,,true,,237,153,1,1,https://ajio.com/women-sarees/c/830303008?query=:relevance,87,0,0
+1664172918775,2569,Ajio-Search Cat1-sarees-1,200,OK,Thread Group 1-1,text,true,,456291,157,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,573,0,0
+1664172921345,175,Search Brands1-Nykaa,200,OK,Thread Group 1-1,text,true,,4757,132,1,1,https://test.redfynd.com/search/Nykaa,175,0,0
+1664172921520,217,Search Brands2-Myntra,200,OK,Thread Group 1-1,text,true,,4757,133,1,1,https://test.redfynd.com/search/Myntra,217,0,0
+1664172921738,76,Search Brands3-Ajio,200,OK,Thread Group 1-1,text,true,,4757,131,1,1,https://test.redfynd.com/search/Ajio,76,0,0
+1664172921814,157,Redfynd Search Stings 1,200,OK,Thread Group 1-1,text,true,,4757,155,1,1,https://test.redfynd.com/search/men%20casual%20white%20shoes,157,0,0
+1664172921972,406,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4757,153,1,1,https://test.redfynd.com/search/women%20slim%20fit%20jeans,406,0,0
+1664172922379,278,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4757,149,1,1,https://test.redfynd.com/search/Kids%20clothing%20sets,278,0,0
+1664172922659,81,Redfynd Banners carousel,200,OK,Thread Group 1-1,text,true,,4757,161,1,1,https://test.redfynd.com/carousel/Top%20Carousel%20Homepage/Brands,81,0,0
+1664172922741,933,Nykaa  Banners carousel,200,OK,Thread Group 1-1,text,true,,696612,484,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",111,0,0
+1664172922741,111,Nykaa  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,490,240,1,1,"https://nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",111,0,0
+1664172922852,822,Nykaa  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,696122,244,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",430,0,0
+1664172923676,10194,ajio  Banners carousel,200,OK,Thread Group 1-1,text,true,,992531,264,1,1,https://www.ajio.com/s/special70-281221,84,0,0
+1664172923676,84,ajio  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,214,130,1,1,https://ajio.com/s/special70-281221,84,0,0
+1664172923761,10109,ajio  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,992317,134,1,1,https://www.ajio.com/s/special70-281221,2106,0,0
+1664172933871,153,Banners sales,200,OK,Thread Group 1-1,text,true,,4757,131,1,1,https://test.redfynd.com/banner/Sale,152,0,0
+1664172934024,746,H-Top categories ,200,OK,Thread Group 1-1,text,true,,4757,154,1,1,https://test.redfynd.com/collection/Top%20Categories/Shirts,746,0,0
+1664172934771,266,H-Shops,200,OK,Thread Group 1-1,text,true,,4757,163,1,1,https://test.redfynd.com/collection/Category%20card%20collection/Men,266,0,0
+1664172935038,207,H-Trend lists,200,OK,Thread Group 1-1,text,true,,4757,163,1,1,https://test.redfynd.com/collection/Trend%20List/Classic%20Jumpsuits,207,0,0
+1664172935246,205,H-Mood,200,OK,Thread Group 1-1,text,true,,4757,147,1,1,https://test.redfynd.com/collection/MOOD/Basic%20Day,205,0,0
+1664172935451,305,H-Looking for something special ,200,OK,Thread Group 1-1,text,true,,4757,180,1,1,https://test.redfynd.com/grid/Looking%20for%20something%20special%3F/Floral%20dresses,305,0,0
+1664188229810,499,Homepage-Redfynd,200,OK,Thread Group 1-1,text,true,,4747,120,1,1,https://test.redfynd.com/,499,0,288
+1664188230313,3204,Homepage_nykaa,200,OK,Thread Group 1-1,text,true,,828254,124,1,1,https://www.nykaafashion.com/,1060,0,635
+1664188233519,8269,Homepage_ajio,200,OK,Thread Group 1-1,text,true,,349781,228,1,1,https://www.ajio.com/,3571,0,3486
+1664188233519,3571,Homepage_ajio-0,301,Moved Permanently,Thread Group 1-1,,true,,196,112,1,1,https://ajio.com/,3571,0,3486
+1664188237090,4698,Homepage_ajio-1,200,OK,Thread Group 1-1,text,true,,349585,116,1,1,https://www.ajio.com/,580,0,408
+1664188241789,375,Redfynd-Women,200,OK,Thread Group 1-1,text,true,,4748,130,1,1,https://test.redfynd.com/nav/Women/,375,0,0
+1664188242164,2930,Nykaa-women,200,OK,Thread Group 1-1,text,true,,1495033,150,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1,792,0,0
+1664188245095,2541,Ajio-Women,200,OK,Thread Group 1-1,text,true,,377478,248,1,1,https://www.ajio.com/shop/women,79,0,0
+1664188245095,79,Ajio-Women-0,301,Moved Permanently,Thread Group 1-1,,true,,206,122,1,1,https://ajio.com/shop/women,79,0,0
+1664188245174,2462,Ajio-Women-1,200,OK,Thread Group 1-1,text,true,,377272,126,1,1,https://www.ajio.com/shop/women,136,0,0
+1664188247637,310,Redfynd-Women_Filter,200,OK,Thread Group 1-1,text,true,,4748,180,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price&Subcategory2=Topwear,310,0,0
+1664188247948,1613,Nykaa-women,200,OK,Thread Group 1-1,text,true,,598411,174,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1&f=category_filter%3D10_,632,0,0
+1664188249561,250,Women_Sorting,200,OK,Thread Group 1-1,text,true,,4756,160,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price/,250,0,0
+1664188249812,186,Men,200,OK,Thread Group 1-1,text,true,,4756,128,1,1,https://test.redfynd.com/nav/Men/,186,0,0
+1664188249999,186,Men_Filter,200,OK,Thread Group 1-1,text,true,,4756,178,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price&Subcategory2=Topwear,186,0,0
+1664188250185,205,Men_Sorting,200,OK,Thread Group 1-1,text,true,,4756,158,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price/,205,0,0
+1664188250391,227,Kids ,200,OK,Thread Group 1-1,text,true,,4756,129,1,1,https://test.redfynd.com/nav/Kids/,227,0,0
+1664188250619,211,Kids_Filter,200,OK,Thread Group 1-1,text,true,,4756,179,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price&Subcategory2=Topwear,210,0,0
+1664188250830,229,Kids_Sorting,200,OK,Thread Group 1-1,text,true,,4756,159,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price/,229,0,0
+1664188251059,91,Redfynd-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,4756,133,1,1,https://test.redfynd.com/search/Shirts,90,0,0
+1664188251150,1858,Nykaa-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,699598,392,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,92,0,0
+1664188251150,92,Nykaa-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,455,194,1,1,https://nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,92,0,0
+1664188251243,1765,Nykaa-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,699143,198,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,818,0,190
+1664188253009,3098,Ajio-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,615700,300,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,106,0,0
+1664188253009,106,Ajio-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,232,148,1,1,https://ajio.com/s/shirts-4271-38471?query=:relevance,106,0,0
+1664188253115,2992,Ajio-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,615468,152,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,353,0,0
+1664188256108,165,Redfynd - Search Cat2-Shoes,200,OK,Thread Group 1-1,text,true,,4756,132,1,1,https://test.redfynd.com/search/Shoes,165,0,0
+1664188256274,1756,Nykaa-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,641747,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,78,0,0
+1664188256274,78,Nykaa-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,78,0,0
+1664188256352,1678,Nykaa-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,641294,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,530,0,0
+1664188258031,3849,Ajio-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,626378,304,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,96,0,0
+1664188258031,96,Ajio-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,234,150,1,1,https://ajio.com/s/footwear-4063-31521?query=:relevance,96,0,0
+1664188258127,3753,Ajio-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,626144,154,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,870,0,0
+1664188261892,190,Redfynd -Search Cat3-Sarees,200,OK,Thread Group 1-1,text,true,,4757,133,1,1,https://test.redfynd.com/search/Sarees,190,0,0
+1664188262083,1563,Nykaa-Search Cat1-Saree,200,OK,Thread Group 1-1,text,true,,516515,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,460,0,0
+1664188262083,460,Nykaa-Search Cat1-Saree-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,460,0,0
+1664188262543,1103,Nykaa-Search Cat1-Saree-1,200,OK,Thread Group 1-1,text,true,,516062,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,376,0,0
+1664188263647,2120,Ajio-Search Cat1-sarees,200,OK,Thread Group 1-1,text,true,,455898,310,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,88,0,0
+1664188263647,88,Ajio-Search Cat1-sarees-0,301,Moved Permanently,Thread Group 1-1,,true,,237,153,1,1,https://ajio.com/women-sarees/c/830303008?query=:relevance,88,0,0
+1664188263735,2032,Ajio-Search Cat1-sarees-1,200,OK,Thread Group 1-1,text,true,,455661,157,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,385,0,0
+1664188265768,216,Search Brands1-Nykaa,200,OK,Thread Group 1-1,text,true,,4757,132,1,1,https://test.redfynd.com/search/Nykaa,216,0,0
+1664188265985,108,Search Brands2-Myntra,200,OK,Thread Group 1-1,text,true,,4757,133,1,1,https://test.redfynd.com/search/Myntra,108,0,0
+1664188266093,654,Search Brands3-Ajio,200,OK,Thread Group 1-1,text,true,,4757,131,1,1,https://test.redfynd.com/search/Ajio,654,0,0
+1664188266748,546,Redfynd Search Stings 1,200,OK,Thread Group 1-1,text,true,,4757,155,1,1,https://test.redfynd.com/search/men%20casual%20white%20shoes,546,0,0
+1664188267295,321,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4757,153,1,1,https://test.redfynd.com/search/women%20slim%20fit%20jeans,321,0,0
+1664188267616,164,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4757,149,1,1,https://test.redfynd.com/search/Kids%20clothing%20sets,164,0,0
+1664188267782,184,Redfynd Banners carousel,200,OK,Thread Group 1-1,text,true,,4757,161,1,1,https://test.redfynd.com/carousel/Top%20Carousel%20Homepage/Brands,184,0,0
+1664188267967,2110,Nykaa  Banners carousel,200,OK,Thread Group 1-1,text,true,,698923,484,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",68,0,0
+1664188267967,68,Nykaa  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,501,240,1,1,"https://nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",68,0,0
+1664188268035,2042,Nykaa  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,698422,244,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",509,0,0
+1664188270078,10448,ajio  Banners carousel,200,OK,Thread Group 1-1,text,true,,990131,264,1,1,https://www.ajio.com/s/special70-281221,224,0,0
+1664188270078,224,ajio  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,214,130,1,1,https://ajio.com/s/special70-281221,224,0,0
+1664188270302,10224,ajio  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,989917,134,1,1,https://www.ajio.com/s/special70-281221,1604,0,0
+1664188280527,182,Banners sales,200,OK,Thread Group 1-1,text,true,,4757,131,1,1,https://test.redfynd.com/banner/Sale,182,0,0
+1664188280710,646,H-Top categories ,200,OK,Thread Group 1-1,text,true,,4757,154,1,1,https://test.redfynd.com/collection/Top%20Categories/Shirts,646,0,0
+1664188281356,185,H-Shops,200,OK,Thread Group 1-1,text,true,,4757,163,1,1,https://test.redfynd.com/collection/Category%20card%20collection/Men,185,0,0
+1664188281543,165,H-Trend lists,200,OK,Thread Group 1-1,text,true,,4757,163,1,1,https://test.redfynd.com/collection/Trend%20List/Classic%20Jumpsuits,165,0,0
+1664188281709,294,H-Mood,200,OK,Thread Group 1-1,text,true,,4757,147,1,1,https://test.redfynd.com/collection/MOOD/Basic%20Day,294,0,0
+1664188282004,274,H-Looking for something special ,200,OK,Thread Group 1-1,text,true,,4757,180,1,1,https://test.redfynd.com/grid/Looking%20for%20something%20special%3F/Floral%20dresses,274,0,0
+1664188407846,1916,Homepage_nykaa,200,OK,Thread Group 1-1,text,true,,828269,124,1,1,https://www.nykaafashion.com/,700,0,510
+1664188409764,1396,Homepage_ajio,200,OK,Thread Group 1-1,text,true,,349781,228,1,1,https://www.ajio.com/,370,0,271
+1664188409764,370,Homepage_ajio-0,301,Moved Permanently,Thread Group 1-1,,true,,196,112,1,1,https://ajio.com/,370,0,271
+1664188410136,1024,Homepage_ajio-1,200,OK,Thread Group 1-1,text,true,,349585,116,1,1,https://www.ajio.com/,428,0,302
+1664188411174,319,Redfynd-Women,200,OK,Thread Group 1-1,text,true,,4758,130,1,1,https://test.redfynd.com/nav/Women/,319,0,140
+1664188411493,2455,Nykaa-women,200,OK,Thread Group 1-1,text,true,,1494961,150,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1,444,0,0
+1664188413949,645,Ajio-Women,200,OK,Thread Group 1-1,text,true,,377478,248,1,1,https://www.ajio.com/shop/women,159,0,0
+1664188413949,159,Ajio-Women-0,301,Moved Permanently,Thread Group 1-1,,true,,206,122,1,1,https://ajio.com/shop/women,159,0,0
+1664188414108,486,Ajio-Women-1,200,OK,Thread Group 1-1,text,true,,377272,126,1,1,https://www.ajio.com/shop/women,183,0,0
+1664188414595,153,Redfynd-Women_Filter,200,OK,Thread Group 1-1,text,true,,4758,180,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price&Subcategory2=Topwear,153,0,0
+1664188414749,745,Nykaa-women,200,OK,Thread Group 1-1,text,true,,598425,174,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1&f=category_filter%3D10_,179,0,0
+1664188415495,267,Women_Sorting,200,OK,Thread Group 1-1,text,true,,4758,160,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price/,267,0,0
+1664188415763,165,Men,200,OK,Thread Group 1-1,text,true,,4758,128,1,1,https://test.redfynd.com/nav/Men/,165,0,0
+1664188415929,467,Men_Filter,200,OK,Thread Group 1-1,text,true,,4758,178,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price&Subcategory2=Topwear,467,0,0
+1664188416397,189,Men_Sorting,200,OK,Thread Group 1-1,text,true,,4758,158,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price/,189,0,0
+1664188416587,205,Kids ,200,OK,Thread Group 1-1,text,true,,4758,129,1,1,https://test.redfynd.com/nav/Kids/,205,0,0
+1664188416793,153,Kids_Filter,200,OK,Thread Group 1-1,text,true,,4758,179,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price&Subcategory2=Topwear,153,0,0
+1664188416946,163,Kids_Sorting,200,OK,Thread Group 1-1,text,true,,4758,159,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price/,163,0,0
+1664188417109,152,Redfynd-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,4758,133,1,1,https://test.redfynd.com/search/Shirts,152,0,0
+1664188417262,1644,Nykaa-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,699592,392,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,43,0,0
+1664188417262,43,Nykaa-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,455,194,1,1,https://nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,43,0,0
+1664188417306,1600,Nykaa-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,699137,198,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,580,0,176
+1664188418906,1239,Ajio-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,615700,300,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,78,0,0
+1664188418906,78,Ajio-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,232,148,1,1,https://ajio.com/s/shirts-4271-38471?query=:relevance,78,0,0
+1664188418985,1160,Ajio-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,615468,152,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,402,0,0
+1664188420146,270,Redfynd - Search Cat2-Shoes,200,OK,Thread Group 1-1,text,true,,4758,132,1,1,https://test.redfynd.com/search/Shoes,270,0,0
+1664188420417,920,Nykaa-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,641878,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,41,0,0
+1664188420417,41,Nykaa-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,41,0,0
+1664188420459,878,Nykaa-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,641425,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,317,0,0
+1664188421338,4547,Ajio-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,626378,304,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,110,0,0
+1664188421338,110,Ajio-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,234,150,1,1,https://ajio.com/s/footwear-4063-31521?query=:relevance,110,0,0
+1664188421448,4437,Ajio-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,626144,154,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,377,0,0
+1664188425885,225,Redfynd -Search Cat3-Sarees,200,OK,Thread Group 1-1,text,true,,4758,133,1,1,https://test.redfynd.com/search/Sarees,225,0,0
+1664188426110,1031,Nykaa-Search Cat1-Saree,200,OK,Thread Group 1-1,text,true,,516655,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,48,0,0
+1664188426110,48,Nykaa-Search Cat1-Saree-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,48,0,0
+1664188426158,983,Nykaa-Search Cat1-Saree-1,200,OK,Thread Group 1-1,text,true,,516202,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,501,0,0
+1664188427142,2873,Ajio-Search Cat1-sarees,200,OK,Thread Group 1-1,text,true,,455898,310,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,101,0,0
+1664188427142,101,Ajio-Search Cat1-sarees-0,301,Moved Permanently,Thread Group 1-1,,true,,237,153,1,1,https://ajio.com/women-sarees/c/830303008?query=:relevance,101,0,0
+1664188427244,2771,Ajio-Search Cat1-sarees-1,200,OK,Thread Group 1-1,text,true,,455661,157,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,334,0,0
+1664188430015,193,Search Brands1-Nykaa,200,OK,Thread Group 1-1,text,true,,4758,132,1,1,https://test.redfynd.com/search/Nykaa,193,0,0
+1664188430209,151,Search Brands2-Myntra,200,OK,Thread Group 1-1,text,true,,4758,133,1,1,https://test.redfynd.com/search/Myntra,151,0,0
+1664188430361,156,Search Brands3-Ajio,200,OK,Thread Group 1-1,text,true,,4758,131,1,1,https://test.redfynd.com/search/Ajio,155,0,0
+1664188430517,285,Redfynd Search Stings 1,200,OK,Thread Group 1-1,text,true,,4758,155,1,1,https://test.redfynd.com/search/men%20casual%20white%20shoes,284,0,0
+1664188430802,170,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4758,153,1,1,https://test.redfynd.com/search/women%20slim%20fit%20jeans,169,0,0
+1664188430972,169,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4758,149,1,1,https://test.redfynd.com/search/Kids%20clothing%20sets,169,0,0
+1664188431142,152,Redfynd Banners carousel,200,OK,Thread Group 1-1,text,true,,4758,161,1,1,https://test.redfynd.com/carousel/Top%20Carousel%20Homepage/Brands,152,0,0
+1664188431295,1006,Nykaa  Banners carousel,200,OK,Thread Group 1-1,text,true,,698926,484,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",48,0,0
+1664188431295,48,Nykaa  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,501,240,1,1,"https://nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",48,0,0
+1664188431343,958,Nykaa  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,698425,244,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",145,0,0
+1664188432303,6286,ajio  Banners carousel,200,OK,Thread Group 1-1,text,true,,989735,264,1,1,https://www.ajio.com/s/special70-281221,102,0,0
+1664188432303,102,ajio  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,214,130,1,1,https://ajio.com/s/special70-281221,102,0,0
+1664188432406,6183,ajio  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,989521,134,1,1,https://www.ajio.com/s/special70-281221,1959,0,0
+1664188438599,170,Banners sales,200,OK,Thread Group 1-1,text,true,,4758,131,1,1,https://test.redfynd.com/banner/Sale,170,0,0
+1664188438769,165,H-Top categories ,200,OK,Thread Group 1-1,text,true,,4758,154,1,1,https://test.redfynd.com/collection/Top%20Categories/Shirts,165,0,0
+1664188438934,174,H-Shops,200,OK,Thread Group 1-1,text,true,,4758,163,1,1,https://test.redfynd.com/collection/Category%20card%20collection/Men,174,0,0
+1664188439108,161,H-Trend lists,200,OK,Thread Group 1-1,text,true,,4758,163,1,1,https://test.redfynd.com/collection/Trend%20List/Classic%20Jumpsuits,161,0,0
+1664188439269,152,H-Mood,200,OK,Thread Group 1-1,text,true,,4758,147,1,1,https://test.redfynd.com/collection/MOOD/Basic%20Day,152,0,0
+1664188439421,532,Homepage-Redfynd,200,OK,Thread Group 1-1,text,true,,4747,120,1,1,https://test.redfynd.com/,89,0,0
+1664188439954,614,H-Looking for something special ,200,OK,Thread Group 1-1,text,true,,4758,180,1,1,https://test.redfynd.com/grid/Looking%20for%20something%20special%3F/Floral%20dresses,614,0,0
+1664193664838,2646,Homepage_nykaa,200,OK,Thread Group 1-1,text,true,,828263,124,1,1,https://www.nykaafashion.com/,1710,0,565
+1664193667486,1101,Homepage_ajio,200,OK,Thread Group 1-1,text,true,,349571,228,1,1,https://www.ajio.com/,331,0,247
+1664193667486,331,Homepage_ajio-0,301,Moved Permanently,Thread Group 1-1,,true,,196,112,1,1,https://ajio.com/,331,0,247
+1664193667818,769,Homepage_ajio-1,200,OK,Thread Group 1-1,text,true,,349375,116,1,1,https://www.ajio.com/,334,0,260
+1664193668588,569,Redfynd-Women,200,OK,Thread Group 1-1,text,true,,4759,130,1,1,https://test.redfynd.com/nav/Women/,569,0,242
+1664193669158,2675,Nykaa-women,200,OK,Thread Group 1-1,text,true,,1494942,150,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1,1021,0,0
+1664193671834,665,Ajio-Women,200,OK,Thread Group 1-1,text,true,,377478,248,1,1,https://www.ajio.com/shop/women,81,0,0
+1664193671834,81,Ajio-Women-0,301,Moved Permanently,Thread Group 1-1,,true,,206,122,1,1,https://ajio.com/shop/women,81,0,0
+1664193671915,584,Ajio-Women-1,200,OK,Thread Group 1-1,text,true,,377272,126,1,1,https://www.ajio.com/shop/women,134,0,0
+1664193672500,176,Redfynd-Women_Filter,200,OK,Thread Group 1-1,text,true,,4759,180,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price&Subcategory2=Topwear,176,0,0
+1664193672677,1458,Nykaa-women,200,OK,Thread Group 1-1,text,true,,598426,174,1,1,https://www.nykaafashion.com/women/c/6557?root=topnav_1&f=category_filter%3D10_,988,0,0
+1664193674136,238,Women_Sorting,200,OK,Thread Group 1-1,text,true,,4759,160,1,1,https://test.redfynd.com/nav/Women/filter/ordering=Selling_Price/,238,0,0
+1664193674375,308,Men,200,OK,Thread Group 1-1,text,true,,4759,128,1,1,https://test.redfynd.com/nav/Men/,308,0,0
+1664193674684,302,Men_Filter,200,OK,Thread Group 1-1,text,true,,4759,178,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price&Subcategory2=Topwear,302,0,0
+1664193674986,312,Men_Sorting,200,OK,Thread Group 1-1,text,true,,4759,158,1,1,https://test.redfynd.com/nav/Men/filter/ordering=Selling_Price/,312,0,0
+1664193675298,303,Kids ,200,OK,Thread Group 1-1,text,true,,4759,129,1,1,https://test.redfynd.com/nav/Kids/,302,0,0
+1664193675601,314,Kids_Filter,200,OK,Thread Group 1-1,text,true,,4759,179,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price&Subcategory2=Topwear,314,0,0
+1664193675916,299,Kids_Sorting,200,OK,Thread Group 1-1,text,true,,4759,159,1,1,https://test.redfynd.com/nav/Kids/filter/ordering=Selling_Price/,299,0,0
+1664193676216,205,Redfynd-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,4759,133,1,1,https://test.redfynd.com/search/Shirts,205,0,0
+1664193676421,1202,Nykaa-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,699593,392,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,41,0,0
+1664193676421,41,Nykaa-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,455,194,1,1,https://nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,41,0,0
+1664193676463,1160,Nykaa-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,699138,198,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=Shirts&searchType=Manual&internalSearchTerm=Shirts,785,0,179
+1664193677623,1474,Ajio-Search Cat1-Shirts,200,OK,Thread Group 1-1,text,true,,616328,300,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,80,0,0
+1664193677623,80,Ajio-Search Cat1-Shirts-0,301,Moved Permanently,Thread Group 1-1,,true,,232,148,1,1,https://ajio.com/s/shirts-4271-38471?query=:relevance,80,0,0
+1664193677703,1394,Ajio-Search Cat1-Shirts-1,200,OK,Thread Group 1-1,text,true,,616096,152,1,1,https://www.ajio.com/s/shirts-4271-38471?query=:relevance,363,0,0
+1664193679098,300,Redfynd - Search Cat2-Shoes,200,OK,Thread Group 1-1,text,true,,4759,132,1,1,https://test.redfynd.com/search/Shoes,300,0,0
+1664193679399,1119,Nykaa-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,641763,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,42,0,0
+1664193679399,42,Nykaa-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,42,0,0
+1664193679441,1077,Nykaa-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,641310,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=shoes&searchType=Manual&internalSearchTerm=shoes,777,0,0
+1664193680519,1725,Ajio-Search Cat1-Shoes,200,OK,Thread Group 1-1,text,true,,626763,304,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,79,0,0
+1664193680519,79,Ajio-Search Cat1-Shoes-0,301,Moved Permanently,Thread Group 1-1,,true,,234,150,1,1,https://ajio.com/s/footwear-4063-31521?query=:relevance,79,0,0
+1664193680598,1646,Ajio-Search Cat1-Shoes-1,200,OK,Thread Group 1-1,text,true,,626529,154,1,1,https://www.ajio.com/s/footwear-4063-31521?query=:relevance,438,0,0
+1664193682244,323,Redfynd -Search Cat3-Sarees,200,OK,Thread Group 1-1,text,true,,4759,133,1,1,https://test.redfynd.com/search/Sarees,323,0,0
+1664193682568,1441,Nykaa-Search Cat1-Saree,200,OK,Thread Group 1-1,text,true,,516144,388,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,48,0,0
+1664193682568,48,Nykaa-Search Cat1-Saree-0,301,Moved Permanently,Thread Group 1-1,,true,,453,192,1,1,https://nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,48,0,0
+1664193682617,1392,Nykaa-Search Cat1-Saree-1,200,OK,Thread Group 1-1,text,true,,515691,196,1,1,https://www.nykaafashion.com/catalogsearch/result/?q=saree&searchType=Manual&internalSearchTerm=saree,686,0,0
+1664193684009,1505,Ajio-Search Cat1-sarees,200,OK,Thread Group 1-1,text,true,,456008,310,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,77,0,0
+1664193684009,77,Ajio-Search Cat1-sarees-0,301,Moved Permanently,Thread Group 1-1,,true,,237,153,1,1,https://ajio.com/women-sarees/c/830303008?query=:relevance,77,0,0
+1664193684086,1428,Ajio-Search Cat1-sarees-1,200,OK,Thread Group 1-1,text,true,,455771,157,1,1,https://www.ajio.com/women-sarees/c/830303008?query=:relevance,381,0,0
+1664193685514,337,Search Brands1-Nykaa,200,OK,Thread Group 1-1,text,true,,4759,132,1,1,https://test.redfynd.com/search/Nykaa,337,0,0
+1664193685852,194,Search Brands2-Myntra,200,OK,Thread Group 1-1,text,true,,4759,133,1,1,https://test.redfynd.com/search/Myntra,193,0,0
+1664193686046,317,Search Brands3-Ajio,200,OK,Thread Group 1-1,text,true,,4759,131,1,1,https://test.redfynd.com/search/Ajio,317,0,0
+1664193686364,348,Redfynd Search Stings 1,200,OK,Thread Group 1-1,text,true,,4759,155,1,1,https://test.redfynd.com/search/men%20casual%20white%20shoes,348,0,0
+1664193686713,189,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4759,153,1,1,https://test.redfynd.com/search/women%20slim%20fit%20jeans,189,0,0
+1664193686903,269,Redfynd Search Stings ,200,OK,Thread Group 1-1,text,true,,4759,149,1,1,https://test.redfynd.com/search/Kids%20clothing%20sets,269,0,0
+1664193687173,226,Redfynd Banners carousel,200,OK,Thread Group 1-1,text,true,,4759,161,1,1,https://test.redfynd.com/carousel/Top%20Carousel%20Homepage/Brands,226,0,0
+1664193687400,749,Nykaa  Banners carousel,200,OK,Thread Group 1-1,text,true,,698932,484,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",44,0,0
+1664193687400,44,Nykaa  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,501,240,1,1,"https://nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",44,0,0
+1664193687444,705,Nykaa  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,698431,244,1,1,"https://www.nykaafashion.com/women/indianwear/c/4?transaction_id=8eece4f23fa6745a563b6a770437ae5c&intcmp=nf-women-dweb,women-main-banner,1,indie-cool",560,0,0
+1664193688149,5359,ajio  Banners carousel,200,OK,Thread Group 1-1,text,true,,989731,264,1,1,https://www.ajio.com/s/special70-281221,79,0,0
+1664193688149,79,ajio  Banners carousel-0,301,Moved Permanently,Thread Group 1-1,,true,,214,130,1,1,https://ajio.com/s/special70-281221,79,0,0
+1664193688229,5279,ajio  Banners carousel-1,200,OK,Thread Group 1-1,text,true,,989517,134,1,1,https://www.ajio.com/s/special70-281221,1712,0,0
+1664193693511,199,Banners sales,200,OK,Thread Group 1-1,text,true,,4759,131,1,1,https://test.redfynd.com/banner/Sale,199,0,0
+1664193693710,188,H-Top categories ,200,OK,Thread Group 1-1,text,true,,4759,154,1,1,https://test.redfynd.com/collection/Top%20Categories/Shirts,188,0,0
+1664193693898,342,H-Shops,200,OK,Thread Group 1-1,text,true,,4759,163,1,1,https://test.redfynd.com/collection/Category%20card%20collection/Men,342,0,0
+1664193694240,209,H-Trend lists,200,OK,Thread Group 1-1,text,true,,4759,163,1,1,https://test.redfynd.com/collection/Trend%20List/Classic%20Jumpsuits,209,0,0
+1664193694449,212,H-Mood,200,OK,Thread Group 1-1,text,true,,4759,147,1,1,https://test.redfynd.com/collection/MOOD/Basic%20Day,212,0,0
+1664193694662,51,Homepage-Redfynd,200,OK,Thread Group 1-1,text,true,,4757,120,1,1,https://test.redfynd.com/,51,0,0
+1664193694714,166,H-Looking for something special ,200,OK,Thread Group 1-1,text,true,,4759,180,1,1,https://test.redfynd.com/grid/Looking%20for%20something%20special%3F/Floral%20dresses,165,0,0
