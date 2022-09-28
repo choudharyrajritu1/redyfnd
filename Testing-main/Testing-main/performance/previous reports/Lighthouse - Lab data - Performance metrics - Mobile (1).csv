@@ -1,0 +1,7 @@
+﻿Label,URL,First Contentful Paint (ms),Speed Index (ms),Largest Contentful Paint (ms),Time to Interactive (ms),Total Blocking Time (ms),Cumulative Layout Shift (score),Performance score
+nykaafashion.com,https://www.nykaafashion.com/kids/c/6266?root=topnav_1,1892,4598,7737,13982,2853,0.035,33
+nykaafashion.com,https://www.nykaafashion.com/women/c/6557?root=topnav_1,4144,6476,9187,14418,929,0,31
+nykaafashion.com,https://www.nykaafashion.com/men/c/6823?root=topnav_1,3698,5932,15138,14853,2808,0.007,24
+redfynd.com,https://test.redfynd.com/nav/Men,5038,13958,14580,14795,1992,0.008,19
+redfynd.com,https://test.redfynd.com/nav/Women,4985,6552,N/A,5885,165,0,?
+redfynd.com,https://test.redfynd.com/nav/Kids,5053,7066,N/A,5878,199,0,?

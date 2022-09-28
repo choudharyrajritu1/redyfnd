@@ -1,0 +1,7 @@
+﻿Label,URL,First Contentful Paint (ms),Speed Index (ms),Largest Contentful Paint (ms),Time to Interactive (ms),Total Blocking Time (ms),Cumulative Layout Shift (score),Performance score
+ajio.com,https://www.ajio.com/s/girls,2531,10974,13570,15955,4771,0.028,23
+ajio.com,https://www.ajio.com/men-western-wear/c/830216,3545,9343,12868,13813,2237,0.077,22
+redfynd.com,https://test.redfynd.com/nav/Women/Western%20Wear,5218,15447,17655,17359,2454,0.007,18
+ajio.com,https://www.ajio.com/women-ethnic-wear/c/830303,3292,7716,8315,11918,1899,1.384,11
+redfynd.com,https://test.redfynd.com/nav/Kids/Girls%20Clothing,5805,7643,N/A,6255,301,0,?
+redfynd.com,https://test.redfynd.com/nav/Men/Western%20Wear,5103,7100,N/A,6092,264,0,?

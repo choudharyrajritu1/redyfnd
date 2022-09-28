@@ -1,0 +1,14 @@
+﻿Label,URL,First Contentful Paint (ms),Speed Index (ms),Largest Contentful Paint (ms),Time to Interactive (ms),Total Blocking Time (ms),Cumulative Layout Shift (score),Performance score
+redfynd.com,https://test.redfynd.com/nav/Women,1226,1591,1661,1526,38,0,89
+redfynd.com,https://test.redfynd.com/nav/Kids,1161,1702,1595,1441,38,0,89
+redfynd.com,https://test.redfynd.com/nav/Men,1322,2396,3050,4123,928,0.003,42
+nykaafashion.com,https://www.nykaafashion.com/kids/c/6266?root=topnav_1,920,2511,3996,3845,1227,0.308,30
+nykaafashion.com,https://www.nykaafashion.com/men/c/6823?root=topnav_1,957,2967,4189,4024,1211,0.648,24
+nykaafashion.com,https://www.nykaafashion.com/women/c/6557?root=topnav_1,998,4102,4583,4713,2132,0.36,21
+,,,,,,,,
+redfynd.com,https://test.redfynd.com/nav/Women/Western%20Wear,1220,2001,1581,1472,51,0,88
+redfynd.com,https://test.redfynd.com/nav/Kids/Girls%20Clothing,1275,2110,1643,1603,77,0,86
+redfynd.com,https://test.redfynd.com/nav/Men/Western%20Wear,1267,2685,1621,3757,763,0.002,54
+ajio.com,https://www.ajio.com/men-western-wear/c/830216,876,3347,4136,4613,277,0.008,53
+ajio.com,https://www.ajio.com/women-ethnic-wear/c/830303,1180,3784,4278,4811,355,0.004,46
+ajio.com,https://www.ajio.com/s/girls,919,3142,4246,4282,712,0.005,39
